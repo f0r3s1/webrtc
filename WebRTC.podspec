@@ -10,6 +10,7 @@ Pod::Spec.new do |s|
   s.homepage     = "http://webrtc.org/"
   s.license      = { :type => "BSD", :file => "LICENSE" }
   s.author    = "Google Inc."
+  s.source       = { :git => "https://github.com/khuong291/KPImageView.git" }
 
   s.platform     = :ios, "8.0"
 
